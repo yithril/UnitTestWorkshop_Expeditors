@@ -1,0 +1,77 @@
+# --- Maven ---
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+!/.mvn/wrapper/maven-wrapper.jar
+
+# --- Compiled / packaged ---
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# --- Logs / JVM crash dumps ---
+*.log
+hs_err_pid*
+replay_pid*
+
+# --- IntelliJ IDEA ---
+# Shared settings (misc.xml, compiler.xml, encodings.xml, …) may be committed.
+# Ignore machine-local and session files:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/dictionaries/
+.idea/httpRequests/
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/caches/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+
+# Data sources / DB tooling (not used in this lab)
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dbnavigator.xml
+
+# Legacy IntelliJ module files (if generated)
+*.iml
+*.ipr
+*.iws
+out/
+
+# --- Eclipse (if someone opens the project) ---
+.classpath
+.project
+.settings/
+bin/
+
+# --- VS Code ---
+.vscode/
+
+# --- OS ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Optional local overrides (uncomment if needed) ---
+# INSTRUCTOR-NOTES.md

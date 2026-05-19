@@ -1,0 +1,3 @@
+# Volatile IDE files are ignored in the project root .gitignore
+/shelf/
+/workspace.xml
