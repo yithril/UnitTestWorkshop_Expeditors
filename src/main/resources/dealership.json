@@ -1,257 +1,457 @@
 {
-  "name": "D & B Used Cars",
-  "address": "111 Old Benbrook Rd",
-  "phone": "817-555-5555",
-  "vehicles": [
-    {
-      "vin": 10000,
-      "year": 2019,
-      "make": "Toyota",
-      "model": "Camry",
-      "color": "White",
-      "vehicleType": "SEDAN",
-      "odometer": 45200,
-      "price": 18500.00
-    },
-    {
-      "vin": 10001,
-      "year": 2021,
-      "make": "Honda",
-      "model": "Accord",
-      "color": "Black",
-      "vehicleType": "SEDAN",
-      "odometer": 28100,
-      "price": 24500.00
-    },
-    {
-      "vin": 10002,
-      "year": 2020,
-      "make": "Ford",
-      "model": "F-150",
-      "color": "Blue",
-      "vehicleType": "TRUCK",
-      "odometer": 51800,
-      "price": 32900.00
-    },
-    {
-      "vin": 10003,
-      "year": 2018,
-      "make": "Chevrolet",
-      "model": "Silverado",
-      "color": "Red",
-      "vehicleType": "TRUCK",
-      "odometer": 78200,
-      "price": 27500.00
-    },
-    {
-      "vin": 10004,
-      "year": 2023,
-      "make": "Tesla",
-      "model": "Model 3",
-      "color": "Pearl",
-      "vehicleType": "ELECTRIC",
-      "odometer": 12400,
-      "price": 38900.00
-    },
-    {
-      "vin": 10005,
-      "year": 2017,
-      "make": "Subaru",
-      "model": "Outback",
-      "color": "Green",
-      "vehicleType": "WAGON",
-      "odometer": 89300,
-      "price": 16800.00
-    },
-    {
-      "vin": 10006,
-      "year": 2022,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "color": "Yellow",
-      "vehicleType": "SUV",
-      "odometer": 22100,
-      "price": 35900.00
-    },
-    {
-      "vin": 10007,
-      "year": 2015,
-      "make": "Nissan",
-      "model": "Altima",
-      "color": "Gray",
-      "vehicleType": "SEDAN",
-      "odometer": 112400,
-      "price": 9500.00
-    },
-    {
-      "vin": 10008,
-      "year": 2020,
-      "make": "BMW",
-      "model": "330i",
-      "color": "Silver",
-      "vehicleType": "SEDAN",
-      "odometer": 38600,
-      "price": 32900.00
-    },
-    {
-      "vin": 10009,
-      "year": 2016,
-      "make": "Mazda",
-      "model": "CX-5",
-      "color": "Blue",
-      "vehicleType": "SUV",
-      "odometer": 94800,
-      "price": 14500.00
-    },
-    {
-      "vin": 10010,
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "color": "White",
-      "vehicleType": "SUV",
-      "odometer": 8200,
-      "price": 28900.00
-    },
-    {
-      "vin": 10011,
-      "year": 2010,
-      "make": "Honda",
-      "model": "Civic",
-      "color": "Red",
-      "vehicleType": "SEDAN",
-      "odometer": 145600,
-      "price": 6500.00
-    },
-    {
-      "vin": 10012,
-      "year": 2019,
-      "make": "Ram",
-      "model": "1500",
-      "color": "Black",
-      "vehicleType": "TRUCK",
-      "odometer": 61400,
-      "price": 31500.00
-    },
-    {
-      "vin": 10013,
-      "year": 2021,
-      "make": "Kia",
-      "model": "Sorento",
-      "color": "Burgundy",
-      "vehicleType": "SUV",
-      "odometer": 40800,
-      "price": 26800.00
-    },
-    {
-      "vin": 10014,
-      "year": 2013,
-      "make": "Ford",
-      "model": "Mustang",
-      "color": "Red",
-      "vehicleType": "COUPE",
-      "odometer": 67200,
-      "price": 17900.00
-    },
-    {
-      "vin": 10015,
-      "year": 2018,
-      "make": "Volkswagen",
-      "model": "Golf",
-      "color": "Gray",
-      "vehicleType": "HATCHBACK",
-      "odometer": 72100,
-      "price": 14200.00
-    },
-    {
-      "vin": 10016,
-      "year": 2020,
-      "make": "Mercedes-Benz",
-      "model": "C300",
-      "color": "Black",
-      "vehicleType": "SEDAN",
-      "odometer": 43900,
-      "price": 37500.00
-    },
-    {
-      "vin": 10017,
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Prius",
-      "color": "Silver",
-      "vehicleType": "HYBRID",
-      "odometer": 35200,
-      "price": 26800.00
-    },
-    {
-      "vin": 10018,
-      "year": 2009,
-      "make": "Toyota",
-      "model": "Sienna",
-      "color": "Beige",
-      "vehicleType": "MINIVAN",
-      "odometer": 168200,
-      "price": 7200.00
-    },
-    {
-      "vin": 10019,
-      "year": 2017,
-      "make": "Dodge",
-      "model": "Grand Caravan",
-      "color": "White",
-      "vehicleType": "VAN",
-      "odometer": 98100,
-      "price": 11900.00
-    },
-    {
-      "vin": 10020,
-      "year": 2016,
-      "make": "Audi",
-      "model": "A4",
-      "color": "Blue",
-      "vehicleType": "SEDAN",
-      "odometer": 82400,
-      "price": 18900.00
-    },
-    {
-      "vin": 10021,
-      "year": 2014,
-      "make": "Chevrolet",
-      "model": "Camaro",
-      "color": "Yellow",
-      "vehicleType": "CONVERTIBLE",
-      "odometer": 55300,
-      "price": 21500.00
-    },
-    {
-      "vin": 10022,
-      "year": 2023,
-      "make": "Harley-Davidson",
-      "model": "Street Bob",
-      "color": "Black",
-      "vehicleType": "MOTORCYCLE",
-      "odometer": 3400,
-      "price": 8900.00
-    },
-    {
-      "vin": 10023,
-      "year": 2012,
-      "make": "Ford",
-      "model": "Transit",
-      "color": "White",
-      "vehicleType": "VAN",
-      "odometer": 195800,
-      "price": 9800.00
-    },
-    {
-      "vin": 10024,
-      "year": 2020,
-      "make": "Lexus",
-      "model": "RX 350",
-      "color": "Pearl",
-      "vehicleType": "SUV",
-      "odometer": 47600,
-      "price": 41200.00
-    }
-  ]
+  "name" : "D & B Used Cars",
+  "address" : "111 Old Benbrook Rd",
+  "phone" : "817-555-5555",
+  "vehicles" : [ {
+    "vin" : 10000,
+    "year" : 2019,
+    "make" : "Toyota",
+    "model" : "Camry",
+    "color" : "White",
+    "vehicleType" : "SEDAN",
+    "odometer" : 45200,
+    "price" : 18500.0
+  }, {
+    "vin" : 10001,
+    "year" : 2021,
+    "make" : "Honda",
+    "model" : "Accord",
+    "color" : "Black",
+    "vehicleType" : "SEDAN",
+    "odometer" : 28100,
+    "price" : 24500.0
+  }, {
+    "vin" : 10002,
+    "year" : 2020,
+    "make" : "Ford",
+    "model" : "F-150",
+    "color" : "Blue",
+    "vehicleType" : "TRUCK",
+    "odometer" : 51800,
+    "price" : 32900.0
+  }, {
+    "vin" : 10003,
+    "year" : 2018,
+    "make" : "Chevrolet",
+    "model" : "Silverado",
+    "color" : "Red",
+    "vehicleType" : "TRUCK",
+    "odometer" : 78200,
+    "price" : 27500.0
+  }, {
+    "vin" : 10004,
+    "year" : 2023,
+    "make" : "Tesla",
+    "model" : "Model 3",
+    "color" : "Pearl",
+    "vehicleType" : "ELECTRIC",
+    "odometer" : 12400,
+    "price" : 38900.0
+  }, {
+    "vin" : 10005,
+    "year" : 2017,
+    "make" : "Subaru",
+    "model" : "Outback",
+    "color" : "Green",
+    "vehicleType" : "WAGON",
+    "odometer" : 89300,
+    "price" : 16800.0
+  }, {
+    "vin" : 10006,
+    "year" : 2022,
+    "make" : "Jeep",
+    "model" : "Wrangler",
+    "color" : "Yellow",
+    "vehicleType" : "SUV",
+    "odometer" : 22100,
+    "price" : 35900.0
+  }, {
+    "vin" : 10007,
+    "year" : 2015,
+    "make" : "Nissan",
+    "model" : "Altima",
+    "color" : "Gray",
+    "vehicleType" : "SEDAN",
+    "odometer" : 112400,
+    "price" : 9500.0
+  }, {
+    "vin" : 10008,
+    "year" : 2020,
+    "make" : "BMW",
+    "model" : "330i",
+    "color" : "Silver",
+    "vehicleType" : "SEDAN",
+    "odometer" : 38600,
+    "price" : 32900.0
+  }, {
+    "vin" : 10009,
+    "year" : 2016,
+    "make" : "Mazda",
+    "model" : "CX-5",
+    "color" : "Blue",
+    "vehicleType" : "SUV",
+    "odometer" : 94800,
+    "price" : 14500.0
+  }, {
+    "vin" : 10010,
+    "year" : 2024,
+    "make" : "Hyundai",
+    "model" : "Tucson",
+    "color" : "White",
+    "vehicleType" : "SUV",
+    "odometer" : 8200,
+    "price" : 28900.0
+  }, {
+    "vin" : 10011,
+    "year" : 2010,
+    "make" : "Honda",
+    "model" : "Civic",
+    "color" : "Red",
+    "vehicleType" : "SEDAN",
+    "odometer" : 145600,
+    "price" : 6500.0
+  }, {
+    "vin" : 10012,
+    "year" : 2019,
+    "make" : "Ram",
+    "model" : "1500",
+    "color" : "Black",
+    "vehicleType" : "TRUCK",
+    "odometer" : 61400,
+    "price" : 31500.0
+  }, {
+    "vin" : 10013,
+    "year" : 2021,
+    "make" : "Kia",
+    "model" : "Sorento",
+    "color" : "Burgundy",
+    "vehicleType" : "SUV",
+    "odometer" : 40800,
+    "price" : 26800.0
+  }, {
+    "vin" : 10014,
+    "year" : 2013,
+    "make" : "Ford",
+    "model" : "Mustang",
+    "color" : "Red",
+    "vehicleType" : "COUPE",
+    "odometer" : 67200,
+    "price" : 17900.0
+  }, {
+    "vin" : 10015,
+    "year" : 2018,
+    "make" : "Volkswagen",
+    "model" : "Golf",
+    "color" : "Gray",
+    "vehicleType" : "HATCHBACK",
+    "odometer" : 72100,
+    "price" : 14200.0
+  }, {
+    "vin" : 10016,
+    "year" : 2020,
+    "make" : "Mercedes-Benz",
+    "model" : "C300",
+    "color" : "Black",
+    "vehicleType" : "SEDAN",
+    "odometer" : 43900,
+    "price" : 37500.0
+  }, {
+    "vin" : 10017,
+    "year" : 2022,
+    "make" : "Toyota",
+    "model" : "Prius",
+    "color" : "Silver",
+    "vehicleType" : "HYBRID",
+    "odometer" : 35200,
+    "price" : 26800.0
+  }, {
+    "vin" : 10018,
+    "year" : 2009,
+    "make" : "Toyota",
+    "model" : "Sienna",
+    "color" : "Beige",
+    "vehicleType" : "MINIVAN",
+    "odometer" : 168200,
+    "price" : 7200.0
+  }, {
+    "vin" : 10019,
+    "year" : 2017,
+    "make" : "Dodge",
+    "model" : "Grand Caravan",
+    "color" : "White",
+    "vehicleType" : "VAN",
+    "odometer" : 98100,
+    "price" : 11900.0
+  }, {
+    "vin" : 10020,
+    "year" : 2016,
+    "make" : "Audi",
+    "model" : "A4",
+    "color" : "Blue",
+    "vehicleType" : "SEDAN",
+    "odometer" : 82400,
+    "price" : 18900.0
+  }, {
+    "vin" : 10021,
+    "year" : 2014,
+    "make" : "Chevrolet",
+    "model" : "Camaro",
+    "color" : "Yellow",
+    "vehicleType" : "CONVERTIBLE",
+    "odometer" : 55300,
+    "price" : 21500.0
+  }, {
+    "vin" : 10022,
+    "year" : 2023,
+    "make" : "Harley-Davidson",
+    "model" : "Street Bob",
+    "color" : "Black",
+    "vehicleType" : "MOTORCYCLE",
+    "odometer" : 3400,
+    "price" : 8900.0
+  }, {
+    "vin" : 10023,
+    "year" : 2012,
+    "make" : "Ford",
+    "model" : "Transit",
+    "color" : "White",
+    "vehicleType" : "VAN",
+    "odometer" : 195800,
+    "price" : 9800.0
+  }, {
+    "vin" : 10024,
+    "year" : 2020,
+    "make" : "Lexus",
+    "model" : "RX 350",
+    "color" : "Pearl",
+    "vehicleType" : "SUV",
+    "odometer" : 47600,
+    "price" : 41200.0
+  } ],
+  "allVehicles" : [ {
+    "vin" : 10000,
+    "year" : 2019,
+    "make" : "Toyota",
+    "model" : "Camry",
+    "color" : "White",
+    "vehicleType" : "SEDAN",
+    "odometer" : 45200,
+    "price" : 18500.0
+  }, {
+    "vin" : 10001,
+    "year" : 2021,
+    "make" : "Honda",
+    "model" : "Accord",
+    "color" : "Black",
+    "vehicleType" : "SEDAN",
+    "odometer" : 28100,
+    "price" : 24500.0
+  }, {
+    "vin" : 10002,
+    "year" : 2020,
+    "make" : "Ford",
+    "model" : "F-150",
+    "color" : "Blue",
+    "vehicleType" : "TRUCK",
+    "odometer" : 51800,
+    "price" : 32900.0
+  }, {
+    "vin" : 10003,
+    "year" : 2018,
+    "make" : "Chevrolet",
+    "model" : "Silverado",
+    "color" : "Red",
+    "vehicleType" : "TRUCK",
+    "odometer" : 78200,
+    "price" : 27500.0
+  }, {
+    "vin" : 10004,
+    "year" : 2023,
+    "make" : "Tesla",
+    "model" : "Model 3",
+    "color" : "Pearl",
+    "vehicleType" : "ELECTRIC",
+    "odometer" : 12400,
+    "price" : 38900.0
+  }, {
+    "vin" : 10005,
+    "year" : 2017,
+    "make" : "Subaru",
+    "model" : "Outback",
+    "color" : "Green",
+    "vehicleType" : "WAGON",
+    "odometer" : 89300,
+    "price" : 16800.0
+  }, {
+    "vin" : 10006,
+    "year" : 2022,
+    "make" : "Jeep",
+    "model" : "Wrangler",
+    "color" : "Yellow",
+    "vehicleType" : "SUV",
+    "odometer" : 22100,
+    "price" : 35900.0
+  }, {
+    "vin" : 10007,
+    "year" : 2015,
+    "make" : "Nissan",
+    "model" : "Altima",
+    "color" : "Gray",
+    "vehicleType" : "SEDAN",
+    "odometer" : 112400,
+    "price" : 9500.0
+  }, {
+    "vin" : 10008,
+    "year" : 2020,
+    "make" : "BMW",
+    "model" : "330i",
+    "color" : "Silver",
+    "vehicleType" : "SEDAN",
+    "odometer" : 38600,
+    "price" : 32900.0
+  }, {
+    "vin" : 10009,
+    "year" : 2016,
+    "make" : "Mazda",
+    "model" : "CX-5",
+    "color" : "Blue",
+    "vehicleType" : "SUV",
+    "odometer" : 94800,
+    "price" : 14500.0
+  }, {
+    "vin" : 10010,
+    "year" : 2024,
+    "make" : "Hyundai",
+    "model" : "Tucson",
+    "color" : "White",
+    "vehicleType" : "SUV",
+    "odometer" : 8200,
+    "price" : 28900.0
+  }, {
+    "vin" : 10011,
+    "year" : 2010,
+    "make" : "Honda",
+    "model" : "Civic",
+    "color" : "Red",
+    "vehicleType" : "SEDAN",
+    "odometer" : 145600,
+    "price" : 6500.0
+  }, {
+    "vin" : 10012,
+    "year" : 2019,
+    "make" : "Ram",
+    "model" : "1500",
+    "color" : "Black",
+    "vehicleType" : "TRUCK",
+    "odometer" : 61400,
+    "price" : 31500.0
+  }, {
+    "vin" : 10013,
+    "year" : 2021,
+    "make" : "Kia",
+    "model" : "Sorento",
+    "color" : "Burgundy",
+    "vehicleType" : "SUV",
+    "odometer" : 40800,
+    "price" : 26800.0
+  }, {
+    "vin" : 10014,
+    "year" : 2013,
+    "make" : "Ford",
+    "model" : "Mustang",
+    "color" : "Red",
+    "vehicleType" : "COUPE",
+    "odometer" : 67200,
+    "price" : 17900.0
+  }, {
+    "vin" : 10015,
+    "year" : 2018,
+    "make" : "Volkswagen",
+    "model" : "Golf",
+    "color" : "Gray",
+    "vehicleType" : "HATCHBACK",
+    "odometer" : 72100,
+    "price" : 14200.0
+  }, {
+    "vin" : 10016,
+    "year" : 2020,
+    "make" : "Mercedes-Benz",
+    "model" : "C300",
+    "color" : "Black",
+    "vehicleType" : "SEDAN",
+    "odometer" : 43900,
+    "price" : 37500.0
+  }, {
+    "vin" : 10017,
+    "year" : 2022,
+    "make" : "Toyota",
+    "model" : "Prius",
+    "color" : "Silver",
+    "vehicleType" : "HYBRID",
+    "odometer" : 35200,
+    "price" : 26800.0
+  }, {
+    "vin" : 10018,
+    "year" : 2009,
+    "make" : "Toyota",
+    "model" : "Sienna",
+    "color" : "Beige",
+    "vehicleType" : "MINIVAN",
+    "odometer" : 168200,
+    "price" : 7200.0
+  }, {
+    "vin" : 10019,
+    "year" : 2017,
+    "make" : "Dodge",
+    "model" : "Grand Caravan",
+    "color" : "White",
+    "vehicleType" : "VAN",
+    "odometer" : 98100,
+    "price" : 11900.0
+  }, {
+    "vin" : 10020,
+    "year" : 2016,
+    "make" : "Audi",
+    "model" : "A4",
+    "color" : "Blue",
+    "vehicleType" : "SEDAN",
+    "odometer" : 82400,
+    "price" : 18900.0
+  }, {
+    "vin" : 10021,
+    "year" : 2014,
+    "make" : "Chevrolet",
+    "model" : "Camaro",
+    "color" : "Yellow",
+    "vehicleType" : "CONVERTIBLE",
+    "odometer" : 55300,
+    "price" : 21500.0
+  }, {
+    "vin" : 10022,
+    "year" : 2023,
+    "make" : "Harley-Davidson",
+    "model" : "Street Bob",
+    "color" : "Black",
+    "vehicleType" : "MOTORCYCLE",
+    "odometer" : 3400,
+    "price" : 8900.0
+  }, {
+    "vin" : 10023,
+    "year" : 2012,
+    "make" : "Ford",
+    "model" : "Transit",
+    "color" : "White",
+    "vehicleType" : "VAN",
+    "odometer" : 195800,
+    "price" : 9800.0
+  }, {
+    "vin" : 10024,
+    "year" : 2020,
+    "make" : "Lexus",
+    "model" : "RX 350",
+    "color" : "Pearl",
+    "vehicleType" : "SUV",
+    "odometer" : 47600,
+    "price" : 41200.0
+  } ]
 }
